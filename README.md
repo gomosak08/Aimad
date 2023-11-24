@@ -3,8 +3,8 @@
 
 ### Features
 
--Real time chan engine for comments
--Blogs
+--Real time chan engine for comments
+--Blogs
 -Portfolio
 -Drag and drop interface
 
