@@ -1,24 +1,19 @@
 # README
+> This is a Rbi on Rails 5 application that allows userrs to create their ownn portafolios.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Features
+-Real time chan engine for comments
+-Blogs
+-Portfolio
+-Drag and drop interface
 
-Things you may want to cover:
+### Code Example
+```ruby
+def my_great_method
+    puts "here its the end"
+```
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```python
+print("hello wold")
+```
