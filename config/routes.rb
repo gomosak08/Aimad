@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  resources :portfolios
+  get 'page/about'
+  get 'page/contact'
   resources :blogs
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
